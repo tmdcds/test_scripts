@@ -1,0 +1,1 @@
+/usr/bin/anaconda/envs/py36-cluster/bin/python3.6 -m pip install adal
